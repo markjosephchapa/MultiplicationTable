@@ -1,0 +1,25 @@
+
+body{
+	background-color: rgb(89, 124, 165);
+	width: 800px;
+	margin: auto;
+}
+input{
+	padding: 10px
+}
+.name{
+	color: white;
+	margin-left: 25px;
+	margin-top: 30px;
+	width: 125px;
+	font-size: 18px;
+	font-weight: 700;
+}
+button{
+	background-color: rgb(232, 227, 255);
+	border-radius: 7px;
+	height: 50px;
+	width: 100px;
+	font-family:Helvetica;
+	font-size: 1em;
+}
